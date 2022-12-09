@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahmoud-Elshahawy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: engmahmoudhamdy63277@gmail.com
 
